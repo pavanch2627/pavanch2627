@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavan
-- 👀 I’m interested in java/j2ee related topics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on java/j2ee projects
+- 💞️ I have work experience in java/j2ee projects
+- 👀 I’m looking to collaborate on java/j2ee projects
 - 📫 How to reach me ...
 
 <!---
